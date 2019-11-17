@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+body {
+  margin: 0;
+  padding: 0;
+}
+
+label {
+  font-size: 0.75rem;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+blockquote {
+  border-left: 5px solid #eee;
+  padding: 0.6rem 1.1rem;
+  font-size: 1.05rem;
+}
+
+blockquote p {
+  margin: 0;
+}
+
+#app-title {
+  color: #008B8B;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+#markdown-textarea {
+  font-size: 0.85rem;
+  height: 30rem;
+}
+
+#result-content {
+  height: 30rem;
+  border: 1px solid #ced4da;
+  background: #fff;
+  font-size: 0.85rem;
+  overflow: auto;
+}
+/*# sourceMappingURL=index.css.map */
