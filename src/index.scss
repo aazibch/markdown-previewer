@@ -31,12 +31,12 @@ blockquote {
     font-family: $primary-font;
 }
 
-#markdown-textarea {
+#editor {
     font-size: $contentbox-fontsize;
     height: $contentbox-height;
 }
 
-#result-content {
+#preview {
     height: $contentbox-height;
     border: 1px solid #ced4da;
     background: #fff;
